@@ -75,6 +75,9 @@ The goal of this project is to transform raw transactional data into meaningful 
 
 ## 🤝 Connect With Me
 If you like this project or want to collaborate, feel free to connect with me on LinkedIn!
+www.linkedin.com/in/shivamsoftware11
+
+
 
 ---
 
