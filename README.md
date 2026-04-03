@@ -53,7 +53,9 @@ The goal of this project is to transform raw transactional data into meaningful 
 ---
 
 ## 📸 Dashboard Preview
-E-commerce_Sales.pdf
+
+👉 [Download Dashboard PDF](E-commerce_Sales.pdf)  
+👉 [Open Power BI File](E-commerce.pbix)
 
 ---
 
