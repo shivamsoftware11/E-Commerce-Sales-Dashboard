@@ -53,7 +53,7 @@ The goal of this project is to transform raw transactional data into meaningful 
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard images here)
+E-commerce_Sales.pdf
 
 ---
 
